@@ -20,5 +20,5 @@
   <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Python" height="50" width="60" src="https://img.icons8.com/ios/50/000000/unity.png"/>
+  <img align="center" alt="Python" height="50" width="60" src="https://img.icons8.com/color/48/000000/unity.png"/>
 </div>
